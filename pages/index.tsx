@@ -7,6 +7,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <p>my paragraph</p>
+      <p>material eklendii</p>
     </div>
   );
 };
